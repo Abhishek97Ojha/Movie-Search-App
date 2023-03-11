@@ -1,3 +1,44 @@
+# Movie Search App
+
+This project was created using HTML, CSS , JS and React JS.
+
+## Hosted Link
+
+Open [https://movie-search-app-ochre.vercel.app/](https://movie-search-app-ochre.vercel.app/) to view it in your browser.
+
+## Github Repository
+
+Open [https://github.com/Abhishek97Ojha/Movie-Search-App](https://github.com/Abhishek97Ojha/Movie-Search-App) to view it in your browser.
+
+# Api provider [https://www.omdbapi.com/](https://www.omdbapi.com/)
+For the free version, we can only make 5 requests per minute.
+
+## Library Used :
+- React *("^18.2.0")*
+- React-Dom *("^18.2.0")*
+- React-Scripts *("5.0.1")*
+
+## Tools Used :
+
+- Props
+- States
+- Context Api
+- UseEffect
+
+## Hooks Used :
+
+- createContext
+- useState
+- useContext
+- useEffect
+
+**Functional Components are used in the app** (*SearchBar, CardContainer*)
+
+## Description :
+
+This **Movie Search App** is built to find details of different movies and series.
+Through Search option we can search different movies/series and we can find those dishes details(like: type, release year, etc) in the cards generated .
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
